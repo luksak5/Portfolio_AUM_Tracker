@@ -6,18 +6,17 @@ Data Sources and Processing
 
 1. Input.csv
 
-Stores client details and transaction history.
-Includes fields such as Client Name, Client ID, Asset Type, Security Name, Ticker, Transaction Type, Units, Purchase Price, and Currency.
-Data is either manually entered or sourced directly from the client’s brokerage account.
+
+• Contains transaction details for each client.
+   
+• Data is taken from the client's brokerage account.
+   
+• you can refer the sheet for the data attributes and the last attributes which is live price is directly 
+  incorporated from the security symbol using google sheet formula.
 
 
-Processing Flow
+2. Processing Flow
 
-Upon execution, a pop-up window prompts the user to enter the Client Name and Client ID.
-The system validates these inputs against Input.csv to ensure accuracy.
-Once validated, the output sheet is generated with daily AUM tracking since inception.
-Output Sheet – Daily AUM Report
-
-Displays historical AUM values, tracking portfolio performance over time.
-Maintains cumulative units per ticker, ensuring correct asset allocation.
-Converts and normalizes values into the client's reporting currency.
+• Upon execution, a pop-up window prompts the user to enter the Client Name and Client ID.The system validates these inputs against Input.csv to ensure accuracy.Once validated, the output sheet is generated with daily AUM tracking since inception.
+ 
+3.Output Sheet – A sheet with Client Name will be generated with historical AUM values
