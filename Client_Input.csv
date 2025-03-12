@@ -1,0 +1,35 @@
+﻿Client_Name,Email_Id,Risk_Profile,Asset_Type,Security_Name,Ticker,Transaction_Type,Units,Price,Currency,Exchange Rate,Reporting_Currency,Date,Live_Price
+Client 123,client123@gmail.com,Moderate,Equity,ISHARES CORE MSCI EMERGING MARKETS ETF,NYSEARCA:IEMG,buy,300,54.08,USD,1,USD,21-11-2024,54.89
+Client 123,client123@gmail.com,Moderate,Equity,ISHARES CORE MSCI EMERGING MARKETS ETF,NYSEARCA:IEMG,buy,250,54,USD,1,USD,27-11-2024,54.89
+Client 123,client123@gmail.com,Moderate,Gold,iShares Gold Trust Micro,NYSEARCA:IAUM,buy,800,26.31,USD,1,USD,25-11-2024,29.03
+Client 123,client123@gmail.com,Moderate,Gold,iShares Gold Trust Micro,NYSEARCA:IAUM,buy,"2,000.00",26.42,USD,1,USD,20-11-2024,29.03
+Client 123,client123@gmail.com,Moderate,REITs,Crown Castle,NYSE:CCI,buy,80,117.88,USD,1,USD,16-09-2024,97.73
+Client 123,client123@gmail.com,Moderate,Equity,iShare Global Energy ETF,NYSEARCA:IXC,buy,286,39.64,USD,1,USD,16-09-2024,39.07
+Client 123,client123@gmail.com,Moderate,Equity,Vanguard Value ETF,NYSEARCA:VTV,buy,99,171.04,USD,1,USD,16-09-2024,174.45
+Client 123,client123@gmail.com,Moderate,Equity,Vanguard S&P 500 Value ETF,NYSEARCA:VOOV,buy,63,187.3,USD,1,USD,16-09-2024,187.69
+Client 123,client123@gmail.com,Moderate,Equity,Vanguard S&P 500 Value ETF,NYSEARCA:VOOV,sell,63,181.7,USD,1,USD,14-01-2025,187.69
+Client 123,client123@gmail.com,Moderate,Debt,iShs $ Trs Bd 0-1y ETF USD A,LON:IB01,buy,655,112.48,USD,1,USD,16-09-2024,114.86
+Client 123,client123@gmail.com,Moderate,Debt,iShs $ Trs Bd 0-1y ETF USD A,LON:IB01,sell,231,114.08,USD,1,USD,14-01-2025,114.86
+Client 123,client123@gmail.com,Moderate,Debt,iShs $ Treas Bd 1-3 Year Treasury bond ETF,LON:IBTA,buy,"7,448.00",5.62,USD,1,USD,16-09-2024,5.69
+Client 456,client456@gmail.com,Moderate,Gold,iShs Gold Trust Micro,NYSEARCA:IAUM,buy,824,25.85,USD,1,USD,16-09-2024,29.03
+Client 456,client456@gmail.com,Moderate,Gold,iShs Gold Trust Micro,NYSEARCA:IAUM,buy,308,26.66,USD,1,USD,13-01-2025,29.03
+Client 456,client456@gmail.com,Moderate,Equity,HSBC MSCI AC Far East ex Japan UCITS ETF,LON:HMAD,buy,500,52.55,USD,1,USD,01-11-2024,53.67
+Client 456,client456@gmail.com,Moderate,Equity,iShares MSCI UAE ETF,NASDAQ:UAE,buy,480,16.76,USD,1,USD,14-01-2025,16.92
+Client 456,client456@gmail.com,Moderate,Equity,iShares US Pharmaceutical ETF,NYSEARCA:IHE,buy,172,66.33,USD,1,USD,13-01-2025,71.86
+Client 456,client456@gmail.com,Moderate,Equity,iShares US Pharmaceutical ETF,NYSEARCA:IHE,sell,172,66.18,USD,1,USD,14-01-2025,71.86
+Client 456,client456@gmail.com,Moderate,Equity,iShares Global Healthcare ETF,NYSEARCA:IXJ,buy,132,87.27,USD,1,USD,15-01-2025,93.9
+Client 456,client456@gmail.com,Moderate,Equity,Dr Reddy,NYSE:RDY,buy,151,69.53,USD,1,USD,01-01-2024,12.91
+Client 456,client456@gmail.com,Moderate,Equity,Dr Reddy,NYSE:RDY,sell,151,78.82,USD,1,USD,24-09-2024,12.91
+Client 456,client456@gmail.com,Moderate,REITs,Extra Space Storage Inc,NYSE:EXR,buy,273,144,USD,1,USD,08-05-2024,157.27
+Client 456,client456@gmail.com,Moderate,REITs,Extra Space Storage Inc,NYSE:EXR,sell,273,170.96,USD,1,USD,02-12-2024,157.27
+Client 456,client456@gmail.com,Moderate,Gold,Goldman Sachs Phys Gold ETF,BATS:AAAU,buy,"2,465.00",20.24,USD,1,USD,01-01-2024,28.76
+Client 789,Client789@gmail.com,Moderate,Gold,Goldman Sachs Phys Gold ETF,BATS:AAAU,buy,230,20.77,USD,1,USD,01-03-2024,28.76
+Client 789,Client789@gmail.com,Moderate,Gold,Goldman Sachs Phys Gold ETF,BATS:AAAU,buy,323,23.3,USD,1,USD,12-04-2024,28.76
+Client 789,Client789@gmail.com,Moderate,Gold,Goldman Sachs Phys Gold ETF,BATS:AAAU,buy,"1,356.00",22.95,USD,1,USD,08-05-2024,28.76
+Client 789,Client789@gmail.com,Moderate,Gold,Goldman Sachs Phys Gold ETF,BATS:AAAU,buy,415,24.88,USD,1,USD,01-08-2024,28.76
+Client 789,Client789@gmail.com,Moderate,Gold,Goldman Sachs Phys Gold ETF,BATS:AAAU,buy,195,24.83,USD,1,USD,01-08-2024,28.76
+Client 789,Client789@gmail.com,Moderate,Gold,Goldman Sachs Phys Gold ETF,BATS:AAAU,sell,"3,984.00",25.86,USD,1,USD,27-12-2024,28.76
+Client 789,Client789@gmail.com,Moderate,Equity,Google,NASDAQ:GOOGL,buy,113,139.74,USD,1,USD,01-01-2024,173.86
+Client 789,Client789@gmail.com,Moderate,Equity,Google,NASDAQ:GOOGL,sell,113,162.76,USD,1,USD,24-09-2024,173.86
+Client 789,Client789@gmail.com,Moderate,Equity,iShares Global Energy ETF,NYSEARCA:IXC,buy,620,44.19,USD,1,USD,26-04-2024,39.07
+Client 789,Client789@gmail.com,Moderate,Equity,iShares Global Energy ETF,NYSEARCA:IXC,buy,300,43.32,USD,1,USD,08-05-2024,39.07
